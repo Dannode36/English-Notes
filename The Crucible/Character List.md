@@ -1,0 +1,42 @@
+### John Proctor
+A farmer in Salem, Proctor serves as the voice of reason and justice in The Crucible. It is he who exposes the girls as frauds who are only pretending that there is witchcraft, and thus becomes the tragic hero of the tale. Proctor is a sharply intelligent man who can easily detect foolishness in others and expose it, but he questions his own moral sense. Because of his affair with Abigail Williams, Proctor questions whether or not he is a moral man, yet this past event is the only major flaw attributed to Proctor, who is in all other respects honourable and ethical. It is a sign of his morality that he does not feel himself adequate to place himself as a martyr for the cause of justice when he is given the choice to save himself at the end of the play.
+### Elizabeth Proctor
+The wife of John Proctor, Elizabeth shares with John a similarly strict adherence to justice and moral principles She is a woman who has great confidence in her own morality and in the ability of a person to maintain a sense of righteousness, both internal and external, even when this principle conflicts with strict Christian doctrine. Although she is regarded as a woman of unimpeachable honesty, it is this reputation that causes her husband to be condemned when she lies about his affair with Abigail, thinking it will save him. However, Elizabeth can be a cold and demanding woman, whose chilly demeanour may have driven her husband to adultery and whose continual suspicions of her husband render their marriage tense.
+### Abigail Williams
+A seventeen year-old girl who is the niece of Reverend Parris, Abigail was the Proctors' servant before Elizabeth fired her for having an affair with John. She is a malicious, vengeful girl who, in an attempt to protect herself from punishment after Reverend Parris finds them dancing, instigates the Salem witch trials and leads the charge of accusations. Despite her accusations, Abigail is an unabashed liar who charges witchcraft against those who oppose her, even Elizabeth Proctor in an attempt to take her place as Proctor's wife. Abigail's callous nature stems partially from past trauma; she is an orphan who watched as her parents were murdered by Indians.
+### Deputy Governor Danforth
+The deputy governor of  Massachusetts presides over the Salem witch trials. He is a stern yet practical man more interested in preserving the dignity and stature of the court than in executing justice or behaving with any sense of fairness. He approaches the witchcraft trials with a strict adherence to rules and law that obscure any sense of rationality, for under his legal dictates an accusation of witchery automatically entails a conviction. Danforth shows that his greatest interest is preserving the reputation of the court when he prompts Proctor to sign a confession, thus precluding the backlash of his execution.
+### Reverend Samuel Parris
+A weak, paranoid and suspicious demagogue, Parris instigates the witchcraft panic when he finds his daughter and niece dancing in the woods with several other girls. Parris is continually beset with fears that others conspire against him. Parris knows the truth that Abigail is lying about the dancing and the witchcraft, but perpetuates the deception because it is in his own self interest. Parris fears any defence against the charges of witchcraft as an attack upon the court and a personal attack on him. As a pastor, his primary concern is personal aggrandizement - he strives for monetary compensation, including the deed to the preacher's house and expensive candlesticks. 
+### Reverend John Hale
+A scholar from Beverly, Reverend Hale comes to Salem on Reverend Parris' request to investigate supernatural causes for Betty Parris' suspicious illness and thus instigates the rumours of witchcraft. Hale approaches the situation precisely and intellectually, believing that he can define the supernatural in definitive terms. Despite his early enthusiasm for discerning the presence of witchcraft in Salem, Hale soon grows disillusioned with the witchcraft accusations that abound and defends Proctor when he challenges Abigail. Hale does this out of guilt, for he fears that he may have caused the execution of innocent persons. 
+### Giles Corey
+An irascible and combative old resident of Salem, Giles Corey is a comic figure in The Crucible whose fate turns tragic when he unwittingly effects his wife's charge for witchcraft when he wonders aloud about the strange books she reads at night. Corey is a frequent plaintiff in court, having brought dozens of lawsuits, and he stands with Proctor in challenging the girls' accusations, believing that Thomas Putnam is using charges of witchcraft to secure land. When Corey refuses to name the person who heard Putnam declare these intentions, Corey is charged with contempt of court and dies when the court orders him to be weighted with stones to coerce him to admit the name. 
+### Mary Warren
+The eighteen year-old servant in the Proctor household, Mary is one of the girls found dancing in the woods and is complicit in Abigail Williams' schemes. Although weak and tentative, she challenges the Proctors when they forbid her to go to court. However, Mary eventually breaks down and testifies against Abigail until Abigail charges her with witchery. She is a pliable girl whose actions are easily determined by others. 
+### Tituba
+Parris' slave from Barbados, Tituba was with the girls when they danced and attempted to conjure the spirits of Ann Putnam's dead children. She is the first person accused of witchcraft and likewise the first person to accuse others of witchery - particularly when she discovers that the easiest way to spare herself is to admit to the charges no matter their truth.
+### Thomas Putnam
+One of the wealthiest landowners in Salem, Thomas Putnam is a vindictive, bitter man who holds longstanding grudges against many of the citizens of Salem, including the Nurse family for blocking the appointment of his brother-in-law to the position of minister. Putnam pushes his daughter to charge witchcraft against George Jacobs, for if he is executed, his land will be open for Putnam to purchase. 
+### Rebecca Nurse
+One of the most noble and well-respected citizens of Salem, this elderly woman is kindly and sane, suggesting that Betty's illness is simply a product of being out too late in the cold. However, because she served as midwife to Mrs. Putnam, Rebecca Nurse is charged with the supernatural murder of Putnam's children, who were each stillborn. Rebecca Nurse is the clear martyr in the play, the most pure and saintly character hanged for witchery. 
+### Judge Hathorn
+Hathorne is the judge who presides over the Salem witch trials. He remains largely subservient to Deputy Governor Danforth, but applies the same tortured reasoning to charges of witchcraft. 
+### Francis Nurse
+Francis is the husband of Rebecca Nurse, and a well-respected wealthy landowner in Salem. Francis Nurse joins Giles Corey and John Proctor in their challenge against the court when their respective wives are charged with witchcraft. 
+### Betty Parris
+The young teenager daughter of Reverend Parris, Betty falls mysteriously ill after Reverend Parris finds her dancing in the woods with Abigail and the other young women of Salem. She goes into hysterics when the charges of witchcraft first form, holding delusions that she can fly and exclaiming with horror when she hears the name of Jesus. 
+### Sarah Good
+One of the first women charged with witchery by the girls, she is a homeless woman who confesses to witchcraft to save herself and continues the charade with Tituba, comically claiming that Satan will take her and Tituba to Barbados. 
+### Ezekiel Cheever
+Ezekiel is a clerk of the court who serves the arrest warrants to the persons charged with witchcraft. 
+### Mrs. Ann Putnam
+The wife of Thomas Putnam, Ann suspects that there is some paranormal reason for the stillborn deaths of seven of her children and blames Rebecca Nurse. 
+### Mercy Lewis
+Mercy Lewis is the Putnam's servant - a fat, sly merciless eighteen year-old girl whom Parris found naked when he spied the girls dancing in the woods. She runs away with Abigail at the end of the play. 
+### Susanna Walcott
+Susanna is one of the girls whom Parris found dancing in the woods, and a confidant of Abigail. 
+### Marshal Herrick
+Marshal is one of the local constables who guards the jail cells while nearly drunk.
+### Hopkins
+Hopkins is one of the guards at the jail cell.
