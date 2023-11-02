@@ -8,13 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28595277e97a4017",
+            "id": "8c7b6dee2c524a01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Crucible/Character List.md",
+                "file": "The Crucible/HUAC.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Crucible/Character List.md",
+                "file": "The Crucible/HUAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Crucible/Character List.md",
+                "file": "The Crucible/HUAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Crucible/Character List.md"
+                "file": "The Crucible/HUAC.md"
               }
             }
           }
@@ -134,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +148,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28595277e97a4017",
+  "active": "8c7b6dee2c524a01",
   "lastOpenFiles": [
+    "The Crucible/The Crucible Word List.md",
+    "The Crucible/Context.md",
+    "Word List.md",
+    "The Crucible/HUAC.md",
+    "The Crucible/Salem Witch Trials.md",
     "The Crucible/Arthur Miller.md",
     "The Crucible/Character List.md",
     "2023-10-20.md",
