@@ -1,54 +1,39 @@
 {
   "main": {
-    "id": "81430bb813d1139e",
+    "id": "9a2ba671a5069381",
     "type": "split",
     "children": [
       {
-        "id": "603f99def2c644ee",
+        "id": "846d4429926aad1f",
         "type": "tabs",
         "children": [
           {
-            "id": "676fb3ea06942fae",
+            "id": "f2335c4f5a2bbd13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Crucible/Themes/Reputation.md",
+                "file": "The Truman Show/Essay Practice.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ee12ad441da4597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Crucible/Themes/Fear and Hysteria.md",
-                "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1d79d839db0e8ba1",
+    "id": "08be79305935f42d",
     "type": "split",
     "children": [
       {
-        "id": "1a235b589a730adc",
+        "id": "755179448eed20a0",
         "type": "tabs",
         "children": [
           {
-            "id": "61203c8445e4488e",
+            "id": "9e4715a920f313c6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +43,7 @@
             }
           },
           {
-            "id": "eb17b06d6ae1d382",
+            "id": "f3ab15b6b6825505",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +58,7 @@
             }
           },
           {
-            "id": "de813f673ab61abe",
+            "id": "4f8621803ca920f3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,47 +69,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "7c78666ff5f993f7",
+    "id": "1abbf4f6ba4aebf1",
     "type": "split",
     "children": [
       {
-        "id": "715e5d97ec90940c",
+        "id": "96a744cfd3a22444",
         "type": "tabs",
         "children": [
           {
-            "id": "534b56df9511f2f3",
+            "id": "aef90235bce35c37",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Crucible/Themes/Fear and Hysteria.md",
+                "file": "The Truman Show/Essay Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f661f36062445623",
+            "id": "73f27d6fb6c792fa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Crucible/Themes/Fear and Hysteria.md",
+                "file": "The Truman Show/Essay Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5f079343c20cff1d",
+            "id": "cf7a647cd32d10be",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,17 +120,17 @@
             }
           },
           {
-            "id": "81c47b60be811e78",
+            "id": "22de657d34ff620f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Crucible/Themes/Fear and Hysteria.md"
+                "file": "The Truman Show/Essay Practice.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -162,24 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ee12ad441da4597",
+  "active": "9e4715a920f313c6",
   "lastOpenFiles": [
-    "The Crucible/The Crucible Word List.md",
-    "Word List.md",
-    "The Crucible/Themes/Fear and Hysteria.md",
-    "The Crucible/Context",
-    "The Crucible/Themes/Reputation.md",
-    "The Crucible/Themes/Themes.md",
-    "The Crucible/Themes",
-    "The Crucible/Edrolo",
-    "The Crucible/Context/Salem Witch Trials.md",
-    "The Crucible/Quote Table.md",
-    "The Crucible/Character List.md",
-    "The Crucible/Context/Context.md",
-    "The Crucible/Arthur Miller.md",
-    "The Crucible/Context/HUAC.md",
-    "2023-10-20.md",
-    "Arthur Miller.pdf",
-    "The Crucible"
+    "The Truman Show/Scene Analysis.md",
+    "The Truman Show/Essay Practice.md",
+    "The Truman Show/Word List.md",
+    "The Truman Show/2024-02-12.md",
+    "The Truman Show/Cinematic Techniques.md",
+    "The Truman Show/Character Profiles.md",
+    "The Truman Show/Themes.md",
+    "The Truman Show/Characters/Meryl Burbank.md",
+    "The Truman Show/Characters/Marlon.md",
+    "The Truman Show/Characters/Christof.md",
+    "The Truman Show/Untitled",
+    "The Truman Show/Characters/Truman Burbank.md",
+    "The Truman Show/Seahaven.md",
+    "The Truman Show/Characters"
   ]
 }

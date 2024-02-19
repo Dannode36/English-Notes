@@ -1,7 +1,6 @@
 {
   "accentColor": "",
-  "baseFontSize": 18,
-  "enabledCssSnippets": [
-    "clean-embeds"
-  ]
+  "theme": "obsidian",
+  "baseFontSize": 14,
+  "cssTheme": "Tokyo Night"
 }
