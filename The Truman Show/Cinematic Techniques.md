@@ -12,3 +12,9 @@
 - Camera Movement -> Panning
 - CGI
 - Lighting
+
+# Language
+- Auteur theory
+- Mise-en-scene
+- Sound and music
+- Cinematography / Camera work
