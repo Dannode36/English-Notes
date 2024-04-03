@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfca40bcae83af4d",
+            "id": "6ae82665de15386d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Truman Show/Essay Draft 04-03.md",
+                "file": "Module C - Craft of Writing/Linda Burney's Speech.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Truman Show/Essay Draft 04-03.md",
+                "file": "Module C - Craft of Writing/Linda Burney's Speech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Truman Show/Essay Draft 04-03.md",
+                "file": "Module C - Craft of Writing/Linda Burney's Speech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Truman Show/Essay Draft 04-03.md"
+                "file": "Module C - Craft of Writing/Linda Burney's Speech.md"
               }
             }
           }
@@ -148,26 +148,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfca40bcae83af4d",
+  "active": "6ae82665de15386d",
   "lastOpenFiles": [
-    "The Truman Show/Scene Analysis.md",
-    "The Truman Show/Essay Draft 04-03.md",
-    "The Truman Show/Cinematic Techniques.md",
-    "The Truman Show/Character Profiles.md",
-    "The Truman Show/Essay Practice 27-02.md",
-    "The Truman Show/Essay Practice 20-02.md",
-    "The Truman Show/Seahaven.md",
-    "The Truman Show/Word List.md",
+    "Module C - Craft of Writing/Syllabus Summary.md",
+    "Module C - Craft of Writing/Linda Burney's Speech.md",
+    "Module C - Craft of Writing/Word List.md",
+    "Module B -The Truman Show/Essay Practice 2024-03-18.md",
+    "Module C - Craft of Writing",
+    "Module B -The Truman Show/Symbolism in The Truman Show.md",
+    "Module B -The Truman Show/Essay Practice 2024-03-11.md",
+    "Module B -The Truman Show/Essay Draft 2024-03-04.md",
+    "Module B -The Truman Show/Seahaven.md",
+    "Module B -The Truman Show/Scene Analysis.md",
+    "Module B -The Truman Show/Essay Practice 2024-02-27.md",
+    "Module B -The Truman Show/Essay Practice 2024-02-20.md",
+    "Module B -The Truman Show/Word List.md",
+    "Module B -The Truman Show/Character Profiles.md",
+    "Module B -The Truman Show/Cinematic Techniques.md",
     "Word List.md",
     "05-03-2024.md",
-    "The Truman Show/12-02-2024.md",
-    "The Truman Show/Symbolism in The Truman Show.md",
-    "The Truman Show/Themes.md",
-    "The Truman Show/Characters/Meryl Burbank.md",
-    "The Truman Show/Characters/Marlon.md",
-    "The Truman Show/Characters/Christof.md",
+    "Module B -The Truman Show/12-02-2024.md",
+    "Module B -The Truman Show/Themes.md",
+    "Module B -The Truman Show/Characters/Meryl Burbank.md",
+    "Module B -The Truman Show/Characters/Marlon.md",
+    "Module B -The Truman Show/Characters/Christof.md",
     "The Truman Show/Untitled",
-    "The Truman Show/Characters/Truman Burbank.md",
-    "The Truman Show/Characters"
+    "Module B -The Truman Show/Characters/Truman Burbank.md",
+    "Module B -The Truman Show/Characters"
   ]
 }
