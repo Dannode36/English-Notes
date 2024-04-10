@@ -1,5 +1,4 @@
 - MP Linda Burney gave the moving first indigenous female speech at parliament
-
 ## Persuasive Techniques
 - Metaphor
 - Jargon
