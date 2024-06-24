@@ -1,0 +1,6 @@
+## Language has the power to reflect and shape individual and collective identity. Do you agree?
+Individual and collective identity is powerfully reflected and shaped in their language and word choice. This is clearly outlined when examining groups such as "car fans", music students and Australians. The language used by these groups form identities and stereotypes which attempt to connect these groups to their individuals.
+
+One group, easily identifiable through their strong use of car-related jargon and dedication to their vehicles, pique a discussion in collective identity. Their constant discussion and mention of their car modification itinerary while simultaneously complaining about their lack of funds, explore a group comprised of mechanically devoted individuals identifiable through their on-topic language. This stereotype perfectly entertains the idea that individual and collective identity is heavily reflected in language.
+
+Another substantial and interesting stereotype, music students, provide a window into the individuals and true identities that form the collective. Music students explore a split stereotype which can simultaneously define "muso's" as being heavily extroverted or heavily introverted individuals

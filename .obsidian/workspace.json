@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module C - Craft of Writing/The Pedestrian.md",
+                "file": "Module D - Henry Lawson/Language, Identity, Culture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 227.5
   },
   "right": {
     "id": "1abbf4f6ba4aebf1",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module C - Craft of Writing/The Pedestrian.md",
+                "file": "Module D - Henry Lawson/Language, Identity, Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module C - Craft of Writing/The Pedestrian.md",
+                "file": "Module D - Henry Lawson/Language, Identity, Culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module C - Craft of Writing/The Pedestrian.md"
+                "file": "Module D - Henry Lawson/Language, Identity, Culture.md"
               }
             }
           }
@@ -150,10 +150,12 @@
   },
   "active": "6ae82665de15386d",
   "lastOpenFiles": [
+    "Module C - Craft of Writing/The Pedestrian.md",
+    "Module D - Henry Lawson/Language, Identity, Culture.md",
+    "Module D - Henry Lawson",
     "Module C - Craft of Writing/Syllabus Summary.md",
     "Module C - Craft of Writing/Linda Burney's Speech.md",
     "Module C - Craft of Writing/Sky High.md",
-    "Module C - Craft of Writing/The Pedestrian.md",
     "Module C - Craft of Writing/Speak Your Mind Tasks/Imaginative Piece.md",
     "Module A - The Crucible/Word List.md",
     "Module C - Craft of Writing/Speak Your Mind Tasks",
@@ -178,7 +180,6 @@
     "Module B -The Truman Show/Characters/Marlon.md",
     "Module B -The Truman Show/Characters/Christof.md",
     "The Truman Show/Untitled",
-    "Module B -The Truman Show/Characters/Truman Burbank.md",
     "Module B -The Truman Show/Characters"
   ]
 }
