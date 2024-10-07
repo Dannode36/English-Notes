@@ -1,6 +1,6 @@
 {
   "vaultName": "English-Notes",
-  "lastExport": 1728276200076,
+  "lastExport": 1728281335456,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -30,6 +30,46 @@
     "docs/common-module-the-crucible/quote-table.html",
     "docs/common-module-the-crucible/the-crucible-word-list.html",
     "docs/common-module-the-crucible/word-list.html",
+    "docs/docs/common-module-the-crucible/context/context.html",
+    "docs/docs/common-module-the-crucible/context/huac.html",
+    "docs/docs/common-module-the-crucible/context/salem-witch-trials.html",
+    "docs/docs/common-module-the-crucible/themes/fear-and-hysteria.html",
+    "docs/docs/common-module-the-crucible/themes/reputation.html",
+    "docs/docs/common-module-the-crucible/themes/themes.html",
+    "docs/docs/common-module-the-crucible/arthur-miller.html",
+    "docs/docs/common-module-the-crucible/character-list.html",
+    "docs/docs/common-module-the-crucible/hsc-revision.html",
+    "docs/docs/common-module-the-crucible/quote-table.html",
+    "docs/docs/common-module-the-crucible/the-crucible-word-list.html",
+    "docs/docs/common-module-the-crucible/word-list.html",
+    "docs/docs/lib/html/file-tree.html",
+    "docs/docs/module-a-henry-lawson/hsc-revision.html",
+    "docs/docs/module-a-henry-lawson/language,-identity,-culture.html",
+    "docs/docs/module-b-the-truman-show/characters/christof.html",
+    "docs/docs/module-b-the-truman-show/characters/marlon.html",
+    "docs/docs/module-b-the-truman-show/characters/meryl-burbank.html",
+    "docs/docs/module-b-the-truman-show/characters/truman-burbank.html",
+    "docs/docs/module-b-the-truman-show/12-02-2024.html",
+    "docs/docs/module-b-the-truman-show/character-profiles.html",
+    "docs/docs/module-b-the-truman-show/cinematic-techniques.html",
+    "docs/docs/module-b-the-truman-show/essay-draft-2024-03-04.html",
+    "docs/docs/module-b-the-truman-show/essay-practice-2024-02-20.html",
+    "docs/docs/module-b-the-truman-show/essay-practice-2024-02-27.html",
+    "docs/docs/module-b-the-truman-show/essay-practice-2024-03-11.html",
+    "docs/docs/module-b-the-truman-show/essay-practice-2024-03-18.html",
+    "docs/docs/module-b-the-truman-show/scene-analysis.html",
+    "docs/docs/module-b-the-truman-show/seahaven.html",
+    "docs/docs/module-b-the-truman-show/symbolism-in-the-truman-show.html",
+    "docs/docs/module-b-the-truman-show/themes.html",
+    "docs/docs/module-b-the-truman-show/word-list.html",
+    "docs/docs/module-c-craft-of-writing/speak-your-mind-tasks/imaginative-piece.html",
+    "docs/docs/module-c-craft-of-writing/linda-burney's-speech.html",
+    "docs/docs/module-c-craft-of-writing/sky-high.html",
+    "docs/docs/module-c-craft-of-writing/syllabus-summary.html",
+    "docs/docs/module-c-craft-of-writing/the-pedestrian.html",
+    "docs/docs/module-c-craft-of-writing/word-list.html",
+    "docs/docs/how-meaning-is-made.html",
+    "docs/docs/word-list.html",
     "docs/lib/fonts/2d5198822ab091ce4305.woff2",
     "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "docs/lib/fonts/05b618077343fbbd92b7.ttf",
@@ -110,6 +150,7 @@
     "docs/module-c-craft-of-writing/the-pedestrian.html",
     "docs/module-c-craft-of-writing/word-list.html",
     "docs/how-meaning-is-made.html",
+    "docs/index.html",
     "docs/word-list.html",
     "Module A - Henry Lawson/HSC Revision.md",
     "Module A - Henry Lawson/Language, Identity, Culture.md",
@@ -300,8 +341,8 @@
       "dependencies": []
     },
     "Common Module - The Crucible/Quote Table.md": {
-      "modifiedTime": 1728275885760,
-      "sourceSize": 6328,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 11776,
       "exportedPath": "common-module-the-crucible/quote-table.html",
       "dependencies": []
     },
@@ -480,362 +521,362 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 64842,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 87993,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 3266,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 130208,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 8525,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "docs/common-module-the-crucible/context/context.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 22547,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 28284,
       "exportedPath": "docs/common-module-the-crucible/context/context.html",
       "dependencies": []
     },
     "docs/common-module-the-crucible/context/huac.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 14143,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 19880,
       "exportedPath": "docs/common-module-the-crucible/context/huac.html",
       "dependencies": []
     },
     "docs/common-module-the-crucible/context/salem-witch-trials.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 15027,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 20764,
       "exportedPath": "docs/common-module-the-crucible/context/salem-witch-trials.html",
       "dependencies": []
     },
     "docs/common-module-the-crucible/themes/fear-and-hysteria.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 19539,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 25276,
       "exportedPath": "docs/common-module-the-crucible/themes/fear-and-hysteria.html",
       "dependencies": []
     },
     "docs/common-module-the-crucible/themes/reputation.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 19341,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 25078,
       "exportedPath": "docs/common-module-the-crucible/themes/reputation.html",
       "dependencies": []
     },
     "docs/common-module-the-crucible/themes/themes.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 18358,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 24095,
       "exportedPath": "docs/common-module-the-crucible/themes/themes.html",
       "dependencies": []
     },
     "docs/common-module-the-crucible/arthur-miller.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 16655,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 22392,
       "exportedPath": "docs/common-module-the-crucible/arthur-miller.html",
       "dependencies": []
     },
     "docs/common-module-the-crucible/character-list.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 40091,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 45828,
       "exportedPath": "docs/common-module-the-crucible/character-list.html",
       "dependencies": []
     },
     "docs/common-module-the-crucible/hsc-revision.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 16090,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 21827,
       "exportedPath": "docs/common-module-the-crucible/hsc-revision.html",
       "dependencies": []
     },
@@ -846,14 +887,14 @@
       "dependencies": []
     },
     "docs/common-module-the-crucible/the-crucible-word-list.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 15049,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 20786,
       "exportedPath": "docs/common-module-the-crucible/the-crucible-word-list.html",
       "dependencies": []
     },
     "docs/common-module-the-crucible/word-list.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 14901,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 20638,
       "exportedPath": "docs/common-module-the-crucible/word-list.html",
       "dependencies": []
     },
@@ -936,145 +977,145 @@
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 40808,
       "exportedPath": "docs/lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 9908,
       "exportedPath": "docs/lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 9600,
       "exportedPath": "docs/lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 22340,
       "exportedPath": "docs/lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 21480,
       "exportedPath": "docs/lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 34464,
       "exportedPath": "docs/lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 20832,
       "exportedPath": "docs/lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 34160,
       "exportedPath": "docs/lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 19776,
       "exportedPath": "docs/lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 19360,
       "exportedPath": "docs/lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 15944,
       "exportedPath": "docs/lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 14628,
       "exportedPath": "docs/lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 12660,
       "exportedPath": "docs/lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 11852,
       "exportedPath": "docs/lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 5792,
       "exportedPath": "docs/lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 5464,
       "exportedPath": "docs/lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 3244,
       "exportedPath": "docs/lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 5148,
       "exportedPath": "docs/lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 17604,
       "exportedPath": "docs/lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 1116,
       "exportedPath": "docs/lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 1136,
       "exportedPath": "docs/lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "docs/lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 1368,
       "exportedPath": "docs/lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "docs/lib/html/file-tree.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 19426,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 64842,
       "exportedPath": "docs/lib/html/file-tree.html",
       "dependencies": []
     },
     "docs/lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 317,
       "exportedPath": "docs/lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
@@ -1086,8 +1127,8 @@
       "dependencies": []
     },
     "docs/lib/scripts/graph-data.js": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 3243,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 3266,
       "exportedPath": "docs/lib/scripts/graph-data.js",
       "dependencies": []
     },
@@ -1140,7 +1181,7 @@
       "dependencies": []
     },
     "docs/lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 236,
       "exportedPath": "docs/lib/styles/global-variable-styles.css",
       "dependencies": []
@@ -1164,20 +1205,20 @@
       "dependencies": []
     },
     "docs/lib/metadata.json": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 25345,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 50544,
       "exportedPath": "docs/lib/metadata.json",
       "dependencies": []
     },
     "docs/lib/rss.xml": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 60695,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 60938,
       "exportedPath": "docs/lib/rss.xml",
       "dependencies": []
     },
     "docs/lib/search-index.json": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 95851,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 119738,
       "exportedPath": "docs/lib/search-index.json",
       "dependencies": []
     },
@@ -1188,109 +1229,109 @@
       "dependencies": []
     },
     "docs/module-a-henry-lawson/language,-identity,-culture.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 16661,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 22398,
       "exportedPath": "docs/module-a-henry-lawson/language,-identity,-culture.html",
       "dependencies": []
     },
     "docs/module-b-the-truman-show/characters/christof.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 14850,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 20587,
       "exportedPath": "docs/module-b-the-truman-show/characters/christof.html",
       "dependencies": []
     },
     "docs/module-b-the-truman-show/characters/marlon.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 14934,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 20671,
       "exportedPath": "docs/module-b-the-truman-show/characters/marlon.html",
       "dependencies": []
     },
     "docs/module-b-the-truman-show/characters/meryl-burbank.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 15276,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 21013,
       "exportedPath": "docs/module-b-the-truman-show/characters/meryl-burbank.html",
       "dependencies": []
     },
     "docs/module-b-the-truman-show/characters/truman-burbank.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 15833,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 21570,
       "exportedPath": "docs/module-b-the-truman-show/characters/truman-burbank.html",
       "dependencies": []
     },
     "docs/module-b-the-truman-show/12-02-2024.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 14912,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 20649,
       "exportedPath": "docs/module-b-the-truman-show/12-02-2024.html",
       "dependencies": []
     },
     "docs/module-b-the-truman-show/character-profiles.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 24098,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 29835,
       "exportedPath": "docs/module-b-the-truman-show/character-profiles.html",
       "dependencies": []
     },
     "docs/module-b-the-truman-show/cinematic-techniques.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 15194,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 20931,
       "exportedPath": "docs/module-b-the-truman-show/cinematic-techniques.html",
       "dependencies": []
     },
     "docs/module-b-the-truman-show/essay-draft-2024-03-04.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 26412,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 32149,
       "exportedPath": "docs/module-b-the-truman-show/essay-draft-2024-03-04.html",
       "dependencies": []
     },
     "docs/module-b-the-truman-show/essay-practice-2024-02-20.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 23859,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 29596,
       "exportedPath": "docs/module-b-the-truman-show/essay-practice-2024-02-20.html",
       "dependencies": []
     },
     "docs/module-b-the-truman-show/essay-practice-2024-02-27.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 21121,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 26858,
       "exportedPath": "docs/module-b-the-truman-show/essay-practice-2024-02-27.html",
       "dependencies": []
     },
     "docs/module-b-the-truman-show/essay-practice-2024-03-11.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 17738,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 23475,
       "exportedPath": "docs/module-b-the-truman-show/essay-practice-2024-03-11.html",
       "dependencies": []
     },
     "docs/module-b-the-truman-show/essay-practice-2024-03-18.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 16540,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 22277,
       "exportedPath": "docs/module-b-the-truman-show/essay-practice-2024-03-18.html",
       "dependencies": []
     },
     "docs/module-b-the-truman-show/scene-analysis.html": {
-      "modifiedTime": 1728276200076,
-      "sourceSize": 19276,
+      "modifiedTime": 1728281335456,
+      "sourceSize": 25013,
       "exportedPath": "docs/module-b-the-truman-show/scene-analysis.html",
       "dependencies": []
     },
     "docs/module-b-the-truman-show/seahaven.html": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 25706,
       "exportedPath": "docs/module-b-the-truman-show/seahaven.html",
       "dependencies": []
     },
     "docs/module-b-the-truman-show/symbolism-in-the-truman-show.html": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 22133,
       "exportedPath": "docs/module-b-the-truman-show/symbolism-in-the-truman-show.html",
       "dependencies": []
     },
     "docs/module-b-the-truman-show/themes.html": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 24808,
       "exportedPath": "docs/module-b-the-truman-show/themes.html",
       "dependencies": []
     },
     "docs/module-b-the-truman-show/word-list.html": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 21737,
       "exportedPath": "docs/module-b-the-truman-show/word-list.html",
       "dependencies": []
@@ -1302,7 +1343,7 @@
       "dependencies": []
     },
     "docs/module-c-craft-of-writing/linda-burney's-speech.html": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 21157,
       "exportedPath": "docs/module-c-craft-of-writing/linda-burney's-speech.html",
       "dependencies": []
@@ -1314,13 +1355,13 @@
       "dependencies": []
     },
     "docs/module-c-craft-of-writing/syllabus-summary.html": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 19975,
       "exportedPath": "docs/module-c-craft-of-writing/syllabus-summary.html",
       "dependencies": []
     },
     "docs/module-c-craft-of-writing/the-pedestrian.html": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 29505,
       "exportedPath": "docs/module-c-craft-of-writing/the-pedestrian.html",
       "dependencies": []
@@ -1332,13 +1373,13 @@
       "dependencies": []
     },
     "docs/how-meaning-is-made.html": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 21569,
       "exportedPath": "docs/how-meaning-is-made.html",
       "dependencies": []
     },
     "docs/word-list.html": {
-      "modifiedTime": 1728276200076,
+      "modifiedTime": 1728281335456,
       "sourceSize": 21996,
       "exportedPath": "docs/word-list.html",
       "dependencies": []
@@ -1347,6 +1388,252 @@
       "modifiedTime": 1728276200076,
       "sourceSize": 106,
       "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "docs/docs/common-module-the-crucible/context/context.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 22547,
+      "exportedPath": "docs/docs/common-module-the-crucible/context/context.html",
+      "dependencies": []
+    },
+    "docs/docs/common-module-the-crucible/context/huac.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 14143,
+      "exportedPath": "docs/docs/common-module-the-crucible/context/huac.html",
+      "dependencies": []
+    },
+    "docs/docs/common-module-the-crucible/context/salem-witch-trials.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 15027,
+      "exportedPath": "docs/docs/common-module-the-crucible/context/salem-witch-trials.html",
+      "dependencies": []
+    },
+    "docs/docs/common-module-the-crucible/themes/fear-and-hysteria.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 19539,
+      "exportedPath": "docs/docs/common-module-the-crucible/themes/fear-and-hysteria.html",
+      "dependencies": []
+    },
+    "docs/docs/common-module-the-crucible/themes/reputation.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 19341,
+      "exportedPath": "docs/docs/common-module-the-crucible/themes/reputation.html",
+      "dependencies": []
+    },
+    "docs/docs/common-module-the-crucible/themes/themes.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 18358,
+      "exportedPath": "docs/docs/common-module-the-crucible/themes/themes.html",
+      "dependencies": []
+    },
+    "docs/docs/common-module-the-crucible/arthur-miller.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 16655,
+      "exportedPath": "docs/docs/common-module-the-crucible/arthur-miller.html",
+      "dependencies": []
+    },
+    "docs/docs/common-module-the-crucible/character-list.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 40091,
+      "exportedPath": "docs/docs/common-module-the-crucible/character-list.html",
+      "dependencies": []
+    },
+    "docs/docs/common-module-the-crucible/hsc-revision.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 16090,
+      "exportedPath": "docs/docs/common-module-the-crucible/hsc-revision.html",
+      "dependencies": []
+    },
+    "docs/docs/common-module-the-crucible/quote-table.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 21787,
+      "exportedPath": "docs/docs/common-module-the-crucible/quote-table.html",
+      "dependencies": []
+    },
+    "docs/docs/common-module-the-crucible/the-crucible-word-list.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 15049,
+      "exportedPath": "docs/docs/common-module-the-crucible/the-crucible-word-list.html",
+      "dependencies": []
+    },
+    "docs/docs/common-module-the-crucible/word-list.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 14901,
+      "exportedPath": "docs/docs/common-module-the-crucible/word-list.html",
+      "dependencies": []
+    },
+    "docs/docs/lib/html/file-tree.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 19426,
+      "exportedPath": "docs/docs/lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "docs/docs/module-a-henry-lawson/hsc-revision.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 24961,
+      "exportedPath": "docs/docs/module-a-henry-lawson/hsc-revision.html",
+      "dependencies": []
+    },
+    "docs/docs/module-a-henry-lawson/language,-identity,-culture.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 16661,
+      "exportedPath": "docs/docs/module-a-henry-lawson/language,-identity,-culture.html",
+      "dependencies": []
+    },
+    "docs/docs/module-b-the-truman-show/characters/christof.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 14850,
+      "exportedPath": "docs/docs/module-b-the-truman-show/characters/christof.html",
+      "dependencies": []
+    },
+    "docs/docs/module-b-the-truman-show/characters/marlon.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 14934,
+      "exportedPath": "docs/docs/module-b-the-truman-show/characters/marlon.html",
+      "dependencies": []
+    },
+    "docs/docs/module-b-the-truman-show/characters/meryl-burbank.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 15276,
+      "exportedPath": "docs/docs/module-b-the-truman-show/characters/meryl-burbank.html",
+      "dependencies": []
+    },
+    "docs/docs/module-b-the-truman-show/characters/truman-burbank.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 15833,
+      "exportedPath": "docs/docs/module-b-the-truman-show/characters/truman-burbank.html",
+      "dependencies": []
+    },
+    "docs/docs/module-b-the-truman-show/12-02-2024.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 14912,
+      "exportedPath": "docs/docs/module-b-the-truman-show/12-02-2024.html",
+      "dependencies": []
+    },
+    "docs/docs/module-b-the-truman-show/character-profiles.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 24098,
+      "exportedPath": "docs/docs/module-b-the-truman-show/character-profiles.html",
+      "dependencies": []
+    },
+    "docs/docs/module-b-the-truman-show/cinematic-techniques.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 15194,
+      "exportedPath": "docs/docs/module-b-the-truman-show/cinematic-techniques.html",
+      "dependencies": []
+    },
+    "docs/docs/module-b-the-truman-show/essay-draft-2024-03-04.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 26412,
+      "exportedPath": "docs/docs/module-b-the-truman-show/essay-draft-2024-03-04.html",
+      "dependencies": []
+    },
+    "docs/docs/module-b-the-truman-show/essay-practice-2024-02-20.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 23859,
+      "exportedPath": "docs/docs/module-b-the-truman-show/essay-practice-2024-02-20.html",
+      "dependencies": []
+    },
+    "docs/docs/module-b-the-truman-show/essay-practice-2024-02-27.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 21121,
+      "exportedPath": "docs/docs/module-b-the-truman-show/essay-practice-2024-02-27.html",
+      "dependencies": []
+    },
+    "docs/docs/module-b-the-truman-show/essay-practice-2024-03-11.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 17738,
+      "exportedPath": "docs/docs/module-b-the-truman-show/essay-practice-2024-03-11.html",
+      "dependencies": []
+    },
+    "docs/docs/module-b-the-truman-show/essay-practice-2024-03-18.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 16540,
+      "exportedPath": "docs/docs/module-b-the-truman-show/essay-practice-2024-03-18.html",
+      "dependencies": []
+    },
+    "docs/docs/module-b-the-truman-show/scene-analysis.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 19276,
+      "exportedPath": "docs/docs/module-b-the-truman-show/scene-analysis.html",
+      "dependencies": []
+    },
+    "docs/docs/module-b-the-truman-show/seahaven.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 25706,
+      "exportedPath": "docs/docs/module-b-the-truman-show/seahaven.html",
+      "dependencies": []
+    },
+    "docs/docs/module-b-the-truman-show/symbolism-in-the-truman-show.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 22133,
+      "exportedPath": "docs/docs/module-b-the-truman-show/symbolism-in-the-truman-show.html",
+      "dependencies": []
+    },
+    "docs/docs/module-b-the-truman-show/themes.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 24808,
+      "exportedPath": "docs/docs/module-b-the-truman-show/themes.html",
+      "dependencies": []
+    },
+    "docs/docs/module-b-the-truman-show/word-list.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 21737,
+      "exportedPath": "docs/docs/module-b-the-truman-show/word-list.html",
+      "dependencies": []
+    },
+    "docs/docs/module-c-craft-of-writing/speak-your-mind-tasks/imaginative-piece.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 19808,
+      "exportedPath": "docs/docs/module-c-craft-of-writing/speak-your-mind-tasks/imaginative-piece.html",
+      "dependencies": []
+    },
+    "docs/docs/module-c-craft-of-writing/linda-burney's-speech.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 21157,
+      "exportedPath": "docs/docs/module-c-craft-of-writing/linda-burney's-speech.html",
+      "dependencies": []
+    },
+    "docs/docs/module-c-craft-of-writing/sky-high.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 19659,
+      "exportedPath": "docs/docs/module-c-craft-of-writing/sky-high.html",
+      "dependencies": []
+    },
+    "docs/docs/module-c-craft-of-writing/syllabus-summary.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 19975,
+      "exportedPath": "docs/docs/module-c-craft-of-writing/syllabus-summary.html",
+      "dependencies": []
+    },
+    "docs/docs/module-c-craft-of-writing/the-pedestrian.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 29505,
+      "exportedPath": "docs/docs/module-c-craft-of-writing/the-pedestrian.html",
+      "dependencies": []
+    },
+    "docs/docs/module-c-craft-of-writing/word-list.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 19670,
+      "exportedPath": "docs/docs/module-c-craft-of-writing/word-list.html",
+      "dependencies": []
+    },
+    "docs/docs/how-meaning-is-made.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 21569,
+      "exportedPath": "docs/docs/how-meaning-is-made.html",
+      "dependencies": []
+    },
+    "docs/docs/word-list.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 21996,
+      "exportedPath": "docs/docs/word-list.html",
+      "dependencies": []
+    },
+    "docs/index.html": {
+      "modifiedTime": 1728281335456,
+      "sourceSize": 19707,
+      "exportedPath": "docs/index.html",
       "dependencies": []
     }
   }
