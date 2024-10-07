@@ -1,0 +1,1 @@
+Welcome to Daniel's HSC English notes! Please checkout the page explorer on the left to navigate this site
