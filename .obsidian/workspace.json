@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module A - Henry Lawson/Language, Identity, Culture.md",
+                "file": "Common Module - The Crucible/Quote Table.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a4c72657172f9eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Word List.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Word List.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Word List.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -149,46 +163,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "f4fcfced27fa3fa1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8f43d59d9f7f5bea",
-        "type": "window",
-        "children": [
-          {
-            "id": "3e17bd96c752613a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e15663f232aa2c6c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Word List.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 573,
-        "y": 612,
-        "width": 902,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e15663f232aa2c6c",
+  "active": "7a4c72657172f9eb",
   "lastOpenFiles": [
+    "Common Module - The Crucible/Quote Table.md",
+    "Untitled.md",
+    "Module A - Henry Lawson/Language, Identity, Culture.md",
+    "Word List.md",
     "How Meaning Is Made.md",
     "Module C - Craft of Writing/The Pedestrian.md",
     "Module C - Craft of Writing/Syllabus Summary.md",
@@ -210,11 +190,7 @@
     "Module B -The Truman Show/Characters/Meryl Burbank.md",
     "Module B -The Truman Show/Characters/Marlon.md",
     "Module B -The Truman Show/Characters/Christof.md",
-    "Module A - Henry Lawson/Language, Identity, Culture.md",
     "Common Module - The Crucible/Word List.md",
-    "Common Module - The Crucible/The Crucible Word List.md",
-    "Common Module - The Crucible/HSC Revision.md",
-    "Common Module - The Crucible/Character List.md",
     "docs",
     "New folder",
     "Common Module - The Crucible/Themes",
