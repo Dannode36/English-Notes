@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7a4c72657172f9eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Common Module - The Crucible/Quote Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Common Module - The Crucible/Quote Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Common Module - The Crucible/Quote Table.md"
               }
             }
           }
@@ -163,8 +149,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7a4c72657172f9eb",
+  "active": "6ae82665de15386d",
   "lastOpenFiles": [
+    "Module A - Henry Lawson/Quote Table.md",
+    "Module A - Henry Lawson/HSC Revision.md",
+    "Module B -The Truman Show/Scene Analysis.md",
+    "Module B -The Truman Show/Seahaven.md",
+    "Module B -The Truman Show/Symbolism in The Truman Show.md",
+    "Module B -The Truman Show/Themes.md",
+    "Module B -The Truman Show/Word List.md",
+    "Module B -The Truman Show/Essay Practice 2024-03-11.md",
+    "Module B -The Truman Show/Essay Practice 2024-02-27.md",
+    "Module B -The Truman Show/Essay Practice 2024-03-18.md",
     "Common Module - The Crucible/Quote Table.md",
     "Untitled.md",
     "Module A - Henry Lawson/Language, Identity, Culture.md",
@@ -173,14 +169,6 @@
     "Module C - Craft of Writing/The Pedestrian.md",
     "Module C - Craft of Writing/Syllabus Summary.md",
     "Module C - Craft of Writing/Linda Burney's Speech.md",
-    "Module B -The Truman Show/Word List.md",
-    "Module B -The Truman Show/Themes.md",
-    "Module B -The Truman Show/Symbolism in The Truman Show.md",
-    "Module B -The Truman Show/Seahaven.md",
-    "Module B -The Truman Show/Scene Analysis.md",
-    "Module B -The Truman Show/Essay Practice 2024-03-18.md",
-    "Module B -The Truman Show/Essay Practice 2024-03-11.md",
-    "Module B -The Truman Show/Essay Practice 2024-02-27.md",
     "Module B -The Truman Show/Essay Practice 2024-02-20.md",
     "Module B -The Truman Show/Essay Draft 2024-03-04.md",
     "Module B -The Truman Show/Cinematic Techniques.md",
@@ -189,8 +177,6 @@
     "Module B -The Truman Show/Characters/Truman Burbank.md",
     "Module B -The Truman Show/Characters/Meryl Burbank.md",
     "Module B -The Truman Show/Characters/Marlon.md",
-    "Module B -The Truman Show/Characters/Christof.md",
-    "Common Module - The Crucible/Word List.md",
     "docs",
     "New folder",
     "Common Module - The Crucible/Themes",
