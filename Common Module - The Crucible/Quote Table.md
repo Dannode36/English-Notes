@@ -22,10 +22,10 @@ Hysteria (n.): Exaggerated or uncontrollable emotion or excitement.
 
 ## Manipulation
 
-| Example                                                                    | Analysis                                                                                                                                                                                                                                                                       |
+| Example                                                                    | Analysis                                                                                                                                                                                                                                                                      |
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| "...the lying lessons I was taught by all these Christian women" (Abigail) | Abigail's angered tone and choice of the word "lessons" implies the lies are taught systematically and are engrained deep within society. <br>This is further emphasised by the alliteration of "lying lessons".<b                                                             |
-| "I want the light of God, I want the sweet love of Jesus" (Abigail)       Abigail's direct contradiction of her previous words manifests her manipulative intent as she attempts to recover from her lies. <br>While her pleads carrying a strong sense pathos, she truly intends to exploit the emotional vulnerability of Puritan societal pressures. an  |
+| "...the lying lessons I was taught by all these Christian women" (Abigail) | Abigail's angered tone and choice of the word "lessons" implies the lies are taught systematically and are engrained deep within society. This is further emphasised by the alliteration of "lying lessons".                                                                  |
+| "I want the light of God, I want the sweet love of Jesus" (Abigail)        | Abigail's direct contradiction of her previous words manifests her manipulative intent as she attempts to recover from her lies. <br>While her pleads carrying a strong sense pathos, she truly intends to exploit the emotional vulnerability of Puritan societal pressures. |
 
 ## Power and Authority
 
